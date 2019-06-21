@@ -5,6 +5,9 @@
 * [Default.aspx.cs](./CS/ExampleE304/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/ExampleE304/Default.aspx.vb))
 <!-- default file list end -->
 # The ASPxPopupControl inside the ASPxDataView's item template
+<!-- run online -->
+**[[Run Online]](https://codecentral.devexpress.com/e304/)**
+<!-- run online end -->
 
 
 <p>This example demonstrates how to show  the ASPxDataView item's additional information using the ASPxPopupControl.</p>
